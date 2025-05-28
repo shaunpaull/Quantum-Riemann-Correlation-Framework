@@ -25,7 +25,7 @@ API Reference
 
 🚀 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/quantum-riemann-framework.git
+git clone [https://github.com/yourusername/quantum-riemann-framework.git](https://github.com/shaunpaull/Quantum-Riemann-Correlation-Framework/blob/main/framework%20part%201)
 cd quantum-riemann-framework
 
 # Install dependencies
